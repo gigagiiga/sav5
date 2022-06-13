@@ -1,0 +1,71 @@
+.satauri {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    font-size: 18px;
+    color: #7F7F7F;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+}
+.zoom{
+    margin-right: 30px;
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    
+    width: 100vw;
+    height: 855px;
+    background-image: url("./Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo1{
+margin-top: 539px;
+    justify-content:center ;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 700px;
+    height: 190px;
+    
+}
+.sec2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: green;
+    width: 100vw;
+    height: 780px;
+    
+}
+.text2{
+
+    margin-left: 30px;
+    width: 306px;
+    height: 390px;
+    display: flex;
+    color: beige;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 20px;
+    color: black;
+}
